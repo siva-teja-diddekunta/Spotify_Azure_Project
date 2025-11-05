@@ -247,5 +247,3 @@ This project is available for educational and commercial use.
 For questions or support, please open an issue in the repository.
 
 ---
-
-**Note**: This project contains sample data for demonstration purposes. Replace with actual production data when deploying.
